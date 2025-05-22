@@ -1,26 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE3F7,100:E6FFFF&height=150&section=header&text=🌈 Welcome to my GitHub! ✨&fontSize=50" />
-
-<div style="display: flex; justify-content: center; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
-
-  <div style="flex: 1; min-width: 100px; width: 40%;" align=center>
-
-  ### 📝About Me  
-
-  <img src="https://img.shields.io/badge/seannn283@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=black"> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white&labelColor=black&link=https://velog.io/@ssssyeon/posts"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=black&linkhttps://www.linkedin.com/in/%EC%84%9C%EC%97%B0-%EA%B9%80-b7369a305/"> 
-
-  </div>
-
-  <div style="flex: 1.5; min-width: 200px; width: 60%;" align=center>
-
-  ### 🌟GitHub Stats  
-  <img src="https://github-readme-stats.vercel.app/api?username=seoyeon83&theme=react&show_icons=true&hide_border=true&count_private=true" />
-
-  </div>
-</div>
-
-<br>
-
 <div align=center>
+
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE3F7,100:E6FFFF&height=150&section=header&text=Seoyeon's%20GitHub&fontSize=40" align=center>
+
+### 📝 About Me
+
+[![Gmail Badge](https://img.shields.io/badge/seannn283@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seannn283@gmail.com)
+[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@ssssyeon/posts)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%84%9C%EC%97%B0-%EA%B9%80-b7369a305/)
+
+
 
 ### 💪🏻Skills
 #### 💻Tech Stack
@@ -58,6 +47,11 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&labelColor=black"> 
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white&labelColor=black"> 
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white&labelColor=black">
+
+### 🌟 GitHub Stats
+
+![seoyeon83's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyeon83&theme=react&show_icons=true&hide_border=true&count_private=true)
+
 
 </div>
 
