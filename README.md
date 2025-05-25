@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white&labelColor=black"> 
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white&labelColor=black"> 
 <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logo=jpa&logoColor=white&labelColor=black"> 
-<img src="https://img.shields.io/badge/Pandas-#150458?style=flat-square&logo=pandas&logoColor=white&labelColor=black"> 
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=black"> 
 
 <br>
 
