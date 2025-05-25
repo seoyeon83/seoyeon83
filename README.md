@@ -22,7 +22,6 @@
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white&labelColor=black"> 
 <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logo=jpa&logoColor=white&labelColor=black"> 
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white&labelColor=black"> 
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white&labelColor=black">
 <br>
 
 <!-- #### DB   -->
