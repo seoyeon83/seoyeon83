@@ -16,31 +16,36 @@
 <!-- Languages   -->
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white&labelColor=black"> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=black">
-
+<br>
 <!-- #### Frameworks   -->
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white&labelColor=black"> 
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white&labelColor=black"> 
 <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logo=jpa&logoColor=white&labelColor=black"> 
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white&labelColor=black"> 
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white&labelColor=black">
+<br>
 
 <!-- #### DB   -->
 <img src="https://img.shields.io/badge/H2 database-09476B?style=flat-square&logo=h2database&logoColor=white&labelColor=black"> 
 <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=black"> 
 <img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=black"> 
 <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white&labelColor=black">
+<br>
 
 <!-- #### Infra   -->
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=black"> 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=black">
+<br>
 
 <!-- #### Workflow & Automation   -->
 <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white&labelColor=black"> 
 <img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white&labelColor=black">
+<br>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white&labelColor=black"> 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&labelColor=black"> 
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white&labelColor=black"> 
+<br>
 
 #### 🛠️Tools
 <!-- #### Tools & Collaboration & Communication   -->
