@@ -27,8 +27,8 @@
 
 <!-- #### DB   -->
 <img src="https://img.shields.io/badge/H2 database-09476B?style=flat-square&logo=h2database&logoColor=white&labelColor=black"> 
-<img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=black"> 
-<img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=black"> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=black"> 
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=black"> 
 <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white&labelColor=black">
 <br>
 
