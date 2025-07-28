@@ -7,6 +7,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/seannn283@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seannn283@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%84%9C%EC%97%B0-%EA%B9%80-b7369a305/)
+[![Tistory Badge](https://img.shields.io/badge/blog-000000?style=flat-square&logo=tistory&logoColor=white)](https://seandev.tistory.com/)
 
 <!-- [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@ssssyeon/posts) -->
 
