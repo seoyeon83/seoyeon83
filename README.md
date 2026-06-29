@@ -52,9 +52,9 @@
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white&labelColor=black"> 
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white&labelColor=black">
 
-### 🌟 GitHub Stats
+<!--  ### 🌟 GitHub Stats
 
-![seoyeon83's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyeon83&theme=react&show_icons=true&hide_border=true&count_private=true)
+![seoyeon83's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyeon83&theme=react&show_icons=true&hide_border=true&count_private=true)   -->
 
 
 </div>
