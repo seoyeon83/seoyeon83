@@ -1,17 +1,17 @@
-<div align=center>
+<div align=left>
 
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE3F7,100:E6FFFF&height=150&section=header&text=Seoyeon's%20GitHub&fontSize=40" align=center>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE3F7,100:E6FFFF&height=150&section=header&text=Seoyeon's%20GitHub&fontSize=40">
 
-### 📝 About Me
+## 📝 About Me
 
 [![Gmail Badge](https://img.shields.io/badge/seannn283@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seannn283@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%84%9C%EC%97%B0-%EA%B9%80-b7369a305/)
 <!-- [![Tistory Badge](https://img.shields.io/badge/blog-000000?style=flat-square&logo=tistory&logoColor=white)](https://seandev.tistory.com/) -->
 <!-- [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@ssssyeon/posts) -->
 
-### 💪🏻Skills
-#### 💻Tech Stack
+## 💪🏻Skills
+### 💻Tech Stack
 <!-- Languages   -->
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white&labelColor=black"> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=black">
@@ -46,7 +46,7 @@
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white&labelColor=black"> 
 <br>
 
-#### 🛠️Tools
+### 🛠️Tools
 <!-- #### Tools & Collaboration & Communication   -->
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&labelColor=black"> 
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white&labelColor=black"> 
@@ -55,7 +55,14 @@
 <!--  ### 🌟 GitHub Stats
 
 ![seoyeon83's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyeon83&theme=react&show_icons=true&hide_border=true&count_private=true)   -->
-
+## 🌟 GitHub Stats
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=seoyeon83&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/seoyeon83"
+  width="600"
+  height="300"
+/>
+</a>
 
 </div>
 
